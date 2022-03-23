@@ -131,4 +131,4 @@ dmypy.json
 
 # keeps songs dir and ignore everything inside it
 songs/*
-!songs
+!/songs
